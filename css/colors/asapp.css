@@ -1,0 +1,1221 @@
+@font-face {
+  font-family: "Nunito Regular";
+  src: url("../../fonts/Nunito-Regular.ttf");
+}
+@font-face {
+  font-family: "Nunito Bold";
+  src: url("../../fonts/Nunito-Bold.ttf");
+}
+@font-face {
+  font-family: "Barlow Regular";
+  src: url("../../fonts/Barlow-Regular.ttf");
+}
+@font-face {
+  font-family: "Barlow Bold";
+  src: url("../../fonts/Barlow-Bold.ttf");
+}
+@font-face {
+  font-family: "Barlow Light";
+  src: url("../../fonts/Barlow-Light.ttf");
+}
+
+.btn.btn-fill {
+  background-color: #E756AD;
+}
+
+.btn.btn-fill:focus {
+  background-color: #E756AD;
+}
+
+.btn.btn-fill:hover {
+  background-color: #E756AD;
+}
+
+.btn.btn-fill:hover {
+  background-color: #E756AD;
+}
+
+.mh-header.nav-strict {
+  background: #E756AD;
+}
+
+.mh-header .navbar-nav li.active a {
+  color: #E756AD;
+}
+
+.mh-header .navbar-nav li a:hover {
+  color: #E756AD;
+}
+
+.mh-header-bg {
+  background-color: #E756AD;
+}
+
+.ft-carousel .owl-next {
+  border: 0px solid #E756AD;
+}
+
+.ft-carousel .owl-prev {
+  border: 0px solid #E756AD;
+}
+
+.ev-home {
+  background:  #F9F9FF;
+}
+
+.ev-home .header-overlay-img.header-overlay-2 {
+  background:  #F9F9FF
+}
+
+.ev-blog-page .header-overlay-3 {
+  background:  #E756AD;
+}
+
+.ev-content-title span {
+  color: #E756AD;
+}
+
+.why-choose-overlay-img {
+  background:  #E756AD;
+}
+
+.testimonial-overlay-img {
+  background:  #E756AD;
+}
+
+.footer-overlay-img {
+  background: #808BF6;
+}
+
+.lo-discover .lo-nav-tabs .nav-link:hover {
+  background:  #E756AD;
+}
+
+.lo-discover .lo-nav-tabs .nav-link.active {
+  background: #E756AD;
+}
+
+.ev-process .process-item .ev-img-inner .process-number {
+  background:  #E756AD;
+}
+
+.ev-testimonial .testimonial-inner .owl-next {
+  background:  #E756AD;
+}
+
+.ev-testimonial .testimonial-inner .owl-prev {
+  border: 0px solid  #E756AD;
+}
+
+.lo-pricing-plan .pricing-item.pricing-item-2.blue-bg {
+  background:  #E756AD;
+}
+
+.lo-pricing-plan .pricing-item.pricing-item-2.blue-bg .btn {
+  color:  #E756AD;
+}
+
+.ev-footer-links .footer-items ul li a:hover {
+  color: #E756AD;
+}
+
+.cta .overlay-img {
+  background: #E756AD;
+}
+
+.featured-section-4 .each-content-inner ul li .fa.fa-2 {
+  background: #E756AD;
+}
+
+.ev-blog-page .header-overlay-3 {
+  background-color:  #E756AD;
+}
+
+.blog-item h2:hover {
+  color:#E756AD;
+}
+
+/*
+|===================
+| BLOG SINGLE
+|===================
+*/
+.blog-content blockquote {
+  color: #E756AD;
+}
+
+.blog-tags .tags a:hover {
+  color: #E756AD;
+}
+
+.comment a {
+  color:#E756AD;
+}
+/*# sourceMappingURL=red.css.map */
+/* HEADER */
+#zb-header{
+  background-color: white;
+}
+#btn_sesion{
+  color: white;
+}
+
+/* SECTION #1 */
+#title_asapp{
+  color: #808BF6!important;
+}
+/*SECTION 2*/
+.section-2-p {
+  padding: 0px!important;
+  font-family: "Nunito Regular";
+  color: #6B839D;
+  font-size: 22px!important;
+  line-height: 20px!important;
+}
+.card_sec_2_1{
+  -webkit-box-shadow: 0px 0px 23px -7px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 23px -7px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 23px -7px rgba(0,0,0,0.75);
+border-color: white;
+border-bottom: solid 6px#808BF6;
+border-radius: 11px;
+}
+:root {
+  --swiper-theme-color: #808BF6!important;
+}
+.card_sec_2_1_titulo{
+  font-family: "Barlow Regular";
+  font-size: 24px;
+  line-height: 37px;
+  color: #808BF6;
+}
+.card_sec_2_1_texto{
+  font-family: "Nunito Regular";
+  font-size: 14px;
+  line-height: 24px;
+  color: #364F65;
+  padding-bottom: 20px;
+}
+.card_sec_2{
+  -webkit-box-shadow: 16px 0px 39px -24px rgba(0,0,0,0.75);
+-moz-box-shadow: 16px 0px 39px -24px rgba(0,0,0,0.75);
+box-shadow: 16px 0px 39px -24px rgba(0,0,0,0.75);
+border-color: white;
+border-left: solid 6px#808BF6
+}
+
+.card_sec_2_titulo{
+  font-family: "Barlow Regular";
+  font-size: 24px;
+  line-height: 37px;
+  color: #808BF6;
+}
+.card_sec_2_texto{
+  font-family: "Nunito Regular";
+  font-size: 16px;
+  line-height: 24px;
+  color: #364F65;
+}
+.card_sec_2_btn{
+  text-decoration-line: underline;
+  font-family: "Nunito Regular";
+  font-size: 16px;
+  line-height: 24px;
+  color: #808BF6;
+}
+.card_sec_2_btn:hover{
+  text-decoration-line: underline;
+  font-family: "Nunito Regular";
+  font-size: 16px;
+  line-height: 24px;
+  color: #E756AD;
+}
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.swiper-pagination-fraction, .swiper-pagination-custom, .swiper-container-horizontal > .swiper-pagination-bullets {
+  padding-bottom: 30px;
+}
+
+/* SECTION #3*/
+#section_3_title{
+  font-family: "Barlow Bold";
+  font-size: 42px;
+  line-height: 72px;
+  color: #134277;
+}
+.img_cars{
+  background-color: white;
+  border: solid 3px #DFE2FF;
+  /* cambia estos dos valores para definir el tamaño de tu círculo */
+  height: 100px;
+  width: 100px;
+  /* los siguientes valores son independientes del tamaño del círculo */
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.img_cars_in{
+  /* cambia estos dos valores para definir el tamaño de tu círculo */
+  font-size: 50px;
+}
+.img_cars_in_1{
+  font-size: 30px;
+}
+.box_card{
+  margin-top: 28px;
+}
+#section4{
+  background-color: #F9F9FF;
+}
+.section_3_vehiculos_title{
+  color: #134277;
+  font-family: "Barlow Bold";
+  font-size: 25px;
+  line-height: 23px;
+  margin-bottom: 13px;
+}
+.section_3_vehiculos_texto{
+  color: #134277;
+  font-family: "Barlow Light";
+  font-size: 18px;
+  line-height: 26px;
+}
+.box_cars{
+  text-align: center;
+}
+/*SECTION #4*/
+.section_charast{
+  margin-bottom: -10px!important;
+  padding-bottom: 0px!important;
+}
+.chart_title{
+  font-family: "Barlow Regular"!important;
+  font-size: 42px!important;
+  line-height: 72px!important;
+  color: #134277!important;
+  margin-bottom: 40px!important;
+}
+.fa_set{
+  color: #237EE4;
+  padding-right: 10px;
+  font-size: 18px;
+  line-height: 20px;
+}
+.fa_text{
+  text-align: initial!important;
+  font-family: "Nunito Regular";
+  font-size: 18px;
+  line-height: 31px;
+  margin-bottom: 40px;
+}
+.fa_text_span{
+  font-family: "Nunito Bold";
+  font-size: 18px;
+  line-height: 31px;
+  margin-bottom: 40px;
+}
+.section-separator {
+  padding-top: 140px;
+}
+
+/* FOOTER */
+@media only screen and (min-width: 540px) {
+  .bloque_card{
+    display: block!important;
+  }
+}
+@media only screen and (max-width: 540px) {
+  /*SECTION #1*/
+  .ev-home .header-content-inner h2 {
+    padding:  0;
+  }
+  .ev-home .header-content-inner h2 {
+    font-family: "Barlow Bold";
+    color: #2D506D;
+    font-size: 24px!important;
+    line-height: 35px!important;
+  }
+  .section-1-p {
+    margin-top: -10px!important;
+    font-family: "Barlow Regular";
+    color: #2D506D;
+    margin: 15px 0px!important;
+    font-size: 14px!important;
+    line-height: 20px!important;
+  }
+  .br_s{
+    display: initial!important;
+  }
+
+  .btn_section_1{
+    border-radius: 30px!important;
+    padding: 8px 16px!important;
+    font-size: 12px!important;
+  }
+  /*SECTION ·2*/
+  #cards{
+    display: block!important;
+  }
+  .bloque_card{
+    display: none!important;
+  }
+  /* SECTION #3 */
+  #section_3_title{
+    margin-bottom: 0px!important;
+  }
+  .section_3_title{
+    font-size: 30px;
+    line-height: 72px;
+  }
+  .box_cars{
+    text-align: center!important;
+    margin-top: 3rem!important;
+  }
+  .box_card{
+    text-align: initial;
+    margin-top: 0px;
+  }
+  .section_3_vehiculos_title{
+    font-size: 20px;
+    line-height: 23px;
+  }
+  .section_3_vehiculos_texto{
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .btn_section_3{
+    font-size: 16px;
+    line-height: 20px;
+    padding: 20px 22px;
+    width: 90%;
+  }
+  
+  /*FOOTER*/
+  #appstore{
+    padding-right: 10px!important;
+    text-align: end;
+  }
+  #playstore{
+    padding-left: 10px!important;
+    text-align: initial;
+  }
+  #siguenos{
+    margin-top: 70px;
+  }
+  #siguenos_en{
+    text-align: end;
+  }
+  #siguenos_en_iconos{
+    text-align: initial;
+  }
+  
+  .copy{
+    text-align: center;
+  }
+}
+
+.p-asapp{
+  color:white;
+  line-height: 32px;
+}
+.a-asapp{
+  color:white;
+}
+.a-asapp:hover{
+  color:#E756AD;
+}
+
+.copy{
+  text-align: end;
+}
+
+/* FONT ICONS */
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../../fonts/icomoon.eot?p6qv4h');
+  src:  url('../../fonts/icomoon.eot?p6qv4h#iefix') format('embedded-opentype'),
+    url('../../fonts/icomoon.ttf?p6qv4h') format('truetype'),
+    url('../../fonts/icomoon.woff?p6qv4h') format('woff'),
+    url('../../fonts/icomoon.svg?p6qv4h#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-moto .path1:before {
+  content: "\e900";
+  color: rgb(26, 35, 26);
+}
+.icon-moto .path2:before {
+  content: "\e901";
+  margin-left: -1.3203125em;
+  color: rgb(75, 82, 75);
+}
+.icon-moto .path3:before {
+  content: "\e902";
+  margin-left: -1.3203125em;
+  color: rgb(75, 82, 75);
+}
+.icon-moto .path4:before {
+  content: "\e903";
+  margin-left: -1.3203125em;
+  color: rgb(201, 204, 206);
+}
+.icon-moto .path5:before {
+  content: "\e904";
+  margin-left: -1.3203125em;
+  color: rgb(95, 134, 171);
+}
+.icon-moto .path6:before {
+  content: "\e905";
+  margin-left: -1.3203125em;
+  color: rgb(3, 13, 3);
+}
+.icon-moto .path7:before {
+  content: "\e906";
+  margin-left: -1.3203125em;
+  color: rgb(75, 82, 75);
+}
+.icon-moto .path8:before {
+  content: "\e907";
+  margin-left: -1.3203125em;
+  color: rgb(3, 13, 3);
+}
+.icon-moto .path9:before {
+  content: "\e908";
+  margin-left: -1.3203125em;
+  color: rgb(3, 13, 3);
+}
+.icon-moto .path10:before {
+  content: "\e909";
+  margin-left: -1.3203125em;
+  color: rgb(201, 202, 201);
+}
+.icon-moto .path11:before {
+  content: "\e90a";
+  margin-left: -1.3203125em;
+  color: rgb(216, 217, 216);
+}
+.icon-moto .path12:before {
+  content: "\e90b";
+  margin-left: -1.3203125em;
+  color: rgb(109, 112, 109);
+}
+.icon-moto .path13:before {
+  content: "\e90c";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path14:before {
+  content: "\e90d";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path15:before {
+  content: "\e90e";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path16:before {
+  content: "\e90f";
+  margin-left: -1.3203125em;
+  color: rgb(75, 82, 75);
+}
+.icon-moto .path17:before {
+  content: "\e910";
+  margin-left: -1.3203125em;
+  color: rgb(3, 13, 3);
+}
+.icon-moto .path18:before {
+  content: "\e911";
+  margin-left: -1.3203125em;
+  color: rgb(3, 13, 3);
+}
+.icon-moto .path19:before {
+  content: "\e912";
+  margin-left: -1.3203125em;
+  color: rgb(201, 202, 201);
+}
+.icon-moto .path20:before {
+  content: "\e913";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path21:before {
+  content: "\e914";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path22:before {
+  content: "\e915";
+  margin-left: -1.3203125em;
+  color: rgb(109, 112, 109);
+}
+.icon-moto .path23:before {
+  content: "\e916";
+  margin-left: -1.3203125em;
+  color: rgb(216, 217, 216);
+}
+.icon-moto .path24:before {
+  content: "\e917";
+  margin-left: -1.3203125em;
+  color: rgb(109, 112, 109);
+}
+.icon-moto .path25:before {
+  content: "\e918";
+  margin-left: -1.3203125em;
+  color: rgb(11, 19, 11);
+}
+.icon-moto .path26:before {
+  content: "\e919";
+  margin-left: -1.3203125em;
+  color: rgb(8, 24, 32);
+}
+.icon-moto .path27:before {
+  content: "\e91a";
+  margin-left: -1.3203125em;
+  color: rgb(8, 24, 32);
+}
+.icon-moto .path28:before {
+  content: "\e91b";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path29:before {
+  content: "\e91c";
+  margin-left: -1.3203125em;
+  color: rgb(19, 34, 42);
+}
+.icon-moto .path30:before {
+  content: "\e91d";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path31:before {
+  content: "\e91e";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path32:before {
+  content: "\e91f";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path33:before {
+  content: "\e920";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path34:before {
+  content: "\e921";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path35:before {
+  content: "\e922";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path36:before {
+  content: "\e923";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path37:before {
+  content: "\e924";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path38:before {
+  content: "\e925";
+  margin-left: -1.3203125em;
+  color: rgb(11, 19, 11);
+}
+.icon-moto .path39:before {
+  content: "\e926";
+  margin-left: -1.3203125em;
+  color: rgb(255, 255, 255);
+}
+.icon-moto .path40:before {
+  content: "\e927";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path41:before {
+  content: "\e928";
+  margin-left: -1.3203125em;
+  color: rgb(91, 103, 226);
+}
+.icon-moto .path42:before {
+  content: "\e929";
+  margin-left: -1.3203125em;
+  color: rgb(11, 19, 11);
+}
+.icon-moto .path43:before {
+  content: "\e92a";
+  margin-left: -1.3203125em;
+  color: rgb(63, 69, 63);
+}
+.icon-moto .path44:before {
+  content: "\e92b";
+  margin-left: -1.3203125em;
+  color: rgb(212, 45, 54);
+}
+.icon-moto .path45:before {
+  content: "\e92c";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path46:before {
+  content: "\e92d";
+  margin-left: -1.3203125em;
+  color: rgb(11, 19, 11);
+}
+.icon-moto .path47:before {
+  content: "\e92e";
+  margin-left: -1.3203125em;
+  color: rgb(201, 204, 206);
+}
+.icon-moto .path48:before {
+  content: "\e92f";
+  margin-left: -1.3203125em;
+  color: rgb(255, 255, 255);
+}
+.icon-moto .path49:before {
+  content: "\e930";
+  margin-left: -1.3203125em;
+  color: rgb(125, 178, 214);
+}
+.icon-moto .path50:before {
+  content: "\e931";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path51:before {
+  content: "\e932";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path52:before {
+  content: "\e933";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path53:before {
+  content: "\e934";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path54:before {
+  content: "\e935";
+  margin-left: -1.3203125em;
+  color: rgb(255, 255, 255);
+}
+.icon-moto .path55:before {
+  content: "\e936";
+  margin-left: -1.3203125em;
+  color: rgb(212, 226, 247);
+}
+.icon-moto .path56:before {
+  content: "\e937";
+  margin-left: -1.3203125em;
+  color: rgb(153, 186, 236);
+}
+.icon-moto .path57:before {
+  content: "\e938";
+  margin-left: -1.3203125em;
+  color: rgb(255, 219, 73);
+}
+.icon-moto .path58:before {
+  content: "\e939";
+  margin-left: -1.3203125em;
+  color: rgb(0, 49, 114);
+}
+.icon-moto .path59:before {
+  content: "\e93a";
+  margin-left: -1.3203125em;
+  color: rgb(203, 205, 203);
+}
+.icon-moto .path60:before {
+  content: "\e93b";
+  margin-left: -1.3203125em;
+  color: rgb(120, 126, 120);
+}
+.icon-moto .path61:before {
+  content: "\e93c";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path62:before {
+  content: "\e93d";
+  margin-left: -1.3203125em;
+  color: rgb(128, 139, 246);
+}
+.icon-moto .path63:before {
+  content: "\e93e";
+  margin-left: -1.3203125em;
+  color: rgb(58, 65, 58);
+}
+.icon-moto .path64:before {
+  content: "\e93f";
+  margin-left: -1.3203125em;
+  color: rgb(11, 19, 11);
+}
+.icon-moto .path65:before {
+  content: "\e940";
+  margin-left: -1.3203125em;
+  color: rgb(255, 255, 255);
+}
+.icon-moto .path66:before {
+  content: "\e941";
+  margin-left: -1.3203125em;
+  color: rgb(189, 201, 211);
+}
+.icon-van .path1:before {
+  content: "\e942";
+  color: rgb(128, 139, 246);
+}
+.icon-van .path2:before {
+  content: "\e943";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path3:before {
+  content: "\e944";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path4:before {
+  content: "\e945";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path5:before {
+  content: "\e946";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path6:before {
+  content: "\e947";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path7:before {
+  content: "\e948";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path8:before {
+  content: "\e949";
+  margin-left: -2.2890625em;
+  color: rgb(255, 255, 255);
+  opacity: 0.64;
+}
+.icon-van .path9:before {
+  content: "\e94a";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path10:before {
+  content: "\e94b";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path11:before {
+  content: "\e94c";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path12:before {
+  content: "\e94d";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path13:before {
+  content: "\e94e";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path14:before {
+  content: "\e94f";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path15:before {
+  content: "\e950";
+  margin-left: -2.2890625em;
+  color: rgb(255, 255, 255);
+  opacity: 0.64;
+}
+.icon-van .path16:before {
+  content: "\e951";
+  margin-left: -2.2890625em;
+  color: rgb(239, 87, 119);
+}
+.icon-van .path17:before {
+  content: "\e952";
+  margin-left: -2.2890625em;
+  color: rgb(119, 140, 163);
+}
+.icon-van .path18:before {
+  content: "\e953";
+  margin-left: -2.2890625em;
+  color: rgb(72, 84, 96);
+}
+.icon-van .path19:before {
+  content: "\e954";
+  margin-left: -2.2890625em;
+  color: rgb(72, 84, 96);
+}
+.icon-van .path20:before {
+  content: "\e955";
+  margin-left: -2.2890625em;
+  color: rgb(72, 84, 96);
+}
+.icon-van .path21:before {
+  content: "\e956";
+  margin-left: -2.2890625em;
+  color: rgb(99, 114, 133);
+}
+.icon-van .path22:before {
+  content: "\e957";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path23:before {
+  content: "\e958";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path24:before {
+  content: "\e959";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path25:before {
+  content: "\e95a";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path26:before {
+  content: "\e95b";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path27:before {
+  content: "\e95c";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path28:before {
+  content: "\e95d";
+  margin-left: -2.2890625em;
+  color: rgb(72, 84, 96);
+}
+.icon-van .path29:before {
+  content: "\e95e";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path30:before {
+  content: "\e95f";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path31:before {
+  content: "\e960";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path32:before {
+  content: "\e961";
+  margin-left: -2.2890625em;
+  color: rgb(72, 84, 96);
+}
+.icon-van .path33:before {
+  content: "\e962";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path34:before {
+  content: "\e963";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path35:before {
+  content: "\e964";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path36:before {
+  content: "\e965";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path37:before {
+  content: "\e966";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path38:before {
+  content: "\e967";
+  margin-left: -2.2890625em;
+  color: rgb(59, 60, 78);
+  opacity: 0.2601;
+}
+.icon-van .path39:before {
+  content: "\e968";
+  margin-left: -2.2890625em;
+  color: rgb(59, 60, 78);
+  opacity: 0.2601;
+}
+.icon-van .path40:before {
+  content: "\e969";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path41:before {
+  content: "\e96a";
+  margin-left: -2.2890625em;
+  color: rgb(64, 75, 84);
+}
+.icon-van .path42:before {
+  content: "\e96b";
+  margin-left: -2.2890625em;
+  color: rgb(72, 84, 96);
+}
+.icon-van .path43:before {
+  content: "\e96c";
+  margin-left: -2.2890625em;
+  color: rgb(128, 139, 246);
+}
+.icon-van .path44:before {
+  content: "\e96d";
+  margin-left: -2.2890625em;
+  color: rgb(30, 39, 46);
+}
+.icon-van .path45:before {
+  content: "\e96e";
+  margin-left: -2.2890625em;
+  color: rgb(72, 84, 96);
+}
+.icon-van .path46:before {
+  content: "\e96f";
+  margin-left: -2.2890625em;
+  color: rgb(128, 142, 155);
+}
+.icon-van .path47:before {
+  content: "\e970";
+  margin-left: -2.2890625em;
+  color: rgb(210, 218, 226);
+}
+.icon-van .path48:before {
+  content: "\e971";
+  margin-left: -2.2890625em;
+  color: rgb(128, 142, 155);
+}
+.icon-van .path49:before {
+  content: "\e972";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path50:before {
+  content: "\e973";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path51:before {
+  content: "\e974";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path52:before {
+  content: "\e975";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path53:before {
+  content: "\e976";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path54:before {
+  content: "\e977";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path55:before {
+  content: "\e978";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path56:before {
+  content: "\e979";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path57:before {
+  content: "\e97a";
+  margin-left: -2.2890625em;
+  color: rgb(30, 39, 46);
+}
+.icon-van .path58:before {
+  content: "\e97b";
+  margin-left: -2.2890625em;
+  color: rgb(72, 84, 96);
+}
+.icon-van .path59:before {
+  content: "\e97c";
+  margin-left: -2.2890625em;
+  color: rgb(128, 142, 155);
+}
+.icon-van .path60:before {
+  content: "\e97d";
+  margin-left: -2.2890625em;
+  color: rgb(210, 218, 226);
+}
+.icon-van .path61:before {
+  content: "\e97e";
+  margin-left: -2.2890625em;
+  color: rgb(128, 142, 155);
+}
+.icon-van .path62:before {
+  content: "\e97f";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path63:before {
+  content: "\e980";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path64:before {
+  content: "\e981";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path65:before {
+  content: "\e982";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path66:before {
+  content: "\e983";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path67:before {
+  content: "\e984";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path68:before {
+  content: "\e985";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-van .path69:before {
+  content: "\e986";
+  margin-left: -2.2890625em;
+  color: rgb(183, 190, 196);
+}
+.icon-auto_sedan .path1:before {
+  content: "\e987";
+  color: rgb(128, 139, 246);
+}
+.icon-auto_sedan .path2:before {
+  content: "\e988";
+  margin-left: -2.53125em;
+  color: rgb(206, 211, 255);
+}
+.icon-auto_sedan .path3:before {
+  content: "\e989";
+  margin-left: -2.53125em;
+  color: rgb(206, 211, 255);
+}
+.icon-auto_sedan .path4:before {
+  content: "\e98a";
+  margin-left: -2.53125em;
+  color: rgb(128, 139, 246);
+}
+.icon-auto_sedan .path5:before {
+  content: "\e98b";
+  margin-left: -2.53125em;
+  color: rgb(206, 211, 255);
+}
+.icon-auto_sedan .path6:before {
+  content: "\e98c";
+  margin-left: -2.53125em;
+  color: rgb(64, 64, 64);
+}
+.icon-auto_sedan .path7:before {
+  content: "\e98d";
+  margin-left: -2.53125em;
+  color: rgb(255, 239, 239);
+}
+.icon-auto_sedan .path8:before {
+  content: "\e98e";
+  margin-left: -2.53125em;
+  color: rgb(128, 139, 246);
+}
+.icon-auto_sedan .path9:before {
+  content: "\e98f";
+  margin-left: -2.53125em;
+  color: rgb(194, 227, 242);
+  opacity: 0.2;
+}
+.icon-auto_sedan .path10:before {
+  content: "\e990";
+  margin-left: -2.53125em;
+  color: rgb(194, 227, 242);
+  opacity: 0.2;
+}
+.icon-auto_sedan .path11:before {
+  content: "\e991";
+  margin-left: -2.53125em;
+  color: rgb(128, 139, 246);
+}
+.icon-auto_sedan .path12:before {
+  content: "\e992";
+  margin-left: -2.53125em;
+  color: rgb(64, 64, 64);
+}
+.icon-auto_sedan .path13:before {
+  content: "\e993";
+  margin-left: -2.53125em;
+  color: rgb(255, 255, 255);
+}
+.icon-auto_sedan .path14:before {
+  content: "\e994";
+  margin-left: -2.53125em;
+  color: rgb(194, 227, 242);
+  opacity: 0.5;
+}
+.icon-auto_sedan .path15:before {
+  content: "\e995";
+  margin-left: -2.53125em;
+  color: rgb(194, 227, 242);
+  opacity: 0.5;
+}
